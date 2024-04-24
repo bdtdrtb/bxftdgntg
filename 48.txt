@@ -1,0 +1,7 @@
+class SmartContract:
+    def __init__(self, code):
+        self.code = code
+
+    def execute(self, transaction):
+        # 执行智能合约的逻辑
+        pass
